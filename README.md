@@ -1,12 +1,12 @@
 # BlackJack
-Hazardná hra Black Jack naprogramovaná v programovacom jazyku Python, ktorá využíva modul PyGame na vykreslovanie hry.
+Blackjack game in Python using PyGame for graphics.
 
-## Informácie 
-### AUTOR:
+## Informations 
+### AUTHOR:
 - Martin Mišík
 
-### DATUM:
+### DATE:
 - 27.12.2018
 
-### VERZIA
+### VERSION
 - 2.0
