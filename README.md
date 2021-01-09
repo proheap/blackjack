@@ -1,12 +1,10 @@
-# BlackJack
+# BLACKJACK
 Blackjack game in Python using PyGame for graphics.
 
-## Informations 
-### AUTHOR:
+----------------------------------------------------------------------------------------------------------------------------------
+## INFORMATIONS
+#### AUTHOR:
 - Martin Mišík
 
-### DATE:
-- 27.12.2018
-
-### VERSION
+#### VERSION
 - 2.0
