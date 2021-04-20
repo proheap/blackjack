@@ -7,7 +7,7 @@ Blackjack game in Python using PyGame for graphics.
 ---
 
 ### AUTHOR:
-- Martin Mišík
+- *Martin Mišík*
 
 ### VERSION
-- 2.1
+- *2.1*
